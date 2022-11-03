@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://sadahirot.github.io/csb-yq5w5j/static/js/main.ae9c3856.chunk.js",
-    "main.js.map": "https://sadahirot.github.io/csb-yq5w5j/static/js/main.ae9c3856.chunk.js.map",
-    "runtime-main.js": "https://sadahirot.github.io/csb-yq5w5j/static/js/runtime-main.bd9434ce.js",
-    "runtime-main.js.map": "https://sadahirot.github.io/csb-yq5w5j/static/js/runtime-main.bd9434ce.js.map",
-    "static/js/2.f0b729a3.chunk.js": "https://sadahirot.github.io/csb-yq5w5j/static/js/2.f0b729a3.chunk.js",
-    "static/js/2.f0b729a3.chunk.js.map": "https://sadahirot.github.io/csb-yq5w5j/static/js/2.f0b729a3.chunk.js.map",
-    "index.html": "https://sadahirot.github.io/csb-yq5w5j/index.html",
-    "static/js/2.f0b729a3.chunk.js.LICENSE.txt": "https://sadahirot.github.io/csb-yq5w5j/static/js/2.f0b729a3.chunk.js.LICENSE.txt"
+    "main.js": "https://.github.io/csb-yq5w5j/static/js/main.3b80d3ef.chunk.js",
+    "main.js.map": "https://.github.io/csb-yq5w5j/static/js/main.3b80d3ef.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-yq5w5j/static/js/runtime-main.0116efa3.js",
+    "runtime-main.js.map": "https://.github.io/csb-yq5w5j/static/js/runtime-main.0116efa3.js.map",
+    "static/js/2.31c4d715.chunk.js": "https://.github.io/csb-yq5w5j/static/js/2.31c4d715.chunk.js",
+    "static/js/2.31c4d715.chunk.js.map": "https://.github.io/csb-yq5w5j/static/js/2.31c4d715.chunk.js.map",
+    "index.html": "https://.github.io/csb-yq5w5j/index.html",
+    "static/js/2.31c4d715.chunk.js.LICENSE.txt": "https://.github.io/csb-yq5w5j/static/js/2.31c4d715.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd9434ce.js",
-    "static/js/2.f0b729a3.chunk.js",
-    "static/js/main.ae9c3856.chunk.js"
+    "static/js/runtime-main.0116efa3.js",
+    "static/js/2.31c4d715.chunk.js",
+    "static/js/main.3b80d3ef.chunk.js"
   ]
 }
